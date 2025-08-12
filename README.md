@@ -23,7 +23,7 @@ This repository contains my complete solution for the Backend Engineering Intern
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/<your-username>/bynry-inventory-bd-intern-solution.git
+git clone https://github.com/Ashex360/bynry-inventory-bd-intern-solution.git
 cd bynry-inventory-bd-intern-solution
 ```
 
